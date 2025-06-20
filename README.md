@@ -1,6 +1,10 @@
 # Invoice Generator
 
-&#x20;  &#x20;
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Made With](https://img.shields.io/badge/Made%20with-TailwindCSS-blue?logo=tailwindcss&logoColor=white)
+![jQuery](https://img.shields.io/badge/Uses-jQuery-orange?logo=jquery&logoColor=white)
+![PDF Generator](https://img.shields.io/badge/PDF-html2pdf.js-lightgrey)
+![Status](https://img.shields.io/badge/status-active-success)
 
 > **Invoice Generator** is a fully‑client‑side, responsive web application that lets you **create, preview, and download professional invoices** straight from your browser. Built with **HTML**, **Tailwind CSS**, and **JavaScript** (jQuery + html2pdf.js), it requires **no server‑side setup**—all processing happens locally.
 
@@ -104,20 +108,6 @@ Contributions are welcome!  Feel free to fork the repository and submit PRs.
 5. Open a Pull Request.
 
 Please follow the existing code style and add ESLint overrides when necessary.
-
----
-
-## 📅 Roadmap
-
--
-
-> Check the [**Issues**](https://github.com/Adytia855/Invoice-Generator/issues) tab or open one to suggest new ideas!
-
----
-
-## 📄 License
-
-Distributed under the **MIT License**.  See [`LICENSE`](LICENSE) for more information.
 
 ---
 
